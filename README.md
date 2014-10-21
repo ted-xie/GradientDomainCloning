@@ -1,9 +1,9 @@
 #Gradient Domain Cloning
 ##An excellent way to superimpose images together smoothly
 
-*Author: Ted Xie*\s\s
-*University of Virginia*\s\s
-[Contact: tyx3gu@virginia.edu](mailto:tyx3gu@virginia.edu)\s\s
+*Author: Ted Xie*<br>
+*University of Virginia*<br>
+[Contact: tyx3gu@virginia.edu](mailto:tyx3gu@virginia.edu)<br>
 
 ###How to Use
 1. Clone this repository into your own local repository
